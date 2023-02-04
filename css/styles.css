@@ -513,6 +513,7 @@ button {
 }
 
 .footer-text {
+  width: 264px;
   margin-top: 16px;
 }
 
@@ -602,7 +603,7 @@ button {
 
 .footer-field-input::placeholder {
   font-size: 12px;
-  line-height: 2.0;
+  line-height: 2;
   letter-spacing: 0.04em;
   color: rgba(255, 255, 255, 0.6);
   padding-left: 16px;
